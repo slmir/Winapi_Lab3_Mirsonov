@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(204,1): warning C4005: LOWORD: изменение макроопределения
+C:\Users\Вячеслав\source\repos\WindowsProject3-3\WindowsProject3-3\Source.cpp(1): message : см. предыдущее определение "LOWORD"
+C:\Users\Вячеслав\source\repos\WindowsProject3-3\WindowsProject3-3\Source.cpp(57,10): warning C4101: HHw: неиспользованная локальная переменная
+C:\Users\Вячеслав\source\repos\WindowsProject3-3\WindowsProject3-3\Source.cpp(57,19): warning C4101: hWndChild: неиспользованная локальная переменная
+C:\Users\Вячеслав\source\repos\WindowsProject3-3\WindowsProject3-3\Source.cpp(63,6): warning C4101: memBit: неиспользованная локальная переменная
+  WindowsProject3-3.vcxproj -> C:\Users\Вячеслав\source\repos\WindowsProject3-3\Debug\WindowsProject3-3.exe
